@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BobbaSet</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
+- 🔭 I’m currently working on [Brief5 Simplon Val Dev Int](https://github.com/BobbaSet/Brief5_Simplon)
+
 - 📫 How to reach me **bastian.olivier59@gmail.com**
 
 - ⚡ Fun fact **I'm fan of Star Wars**
